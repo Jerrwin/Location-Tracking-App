@@ -40,7 +40,7 @@ The app allows admins (reporting authorities) to track employee locations, view 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/LoTa.git
+git clone https://github.com/Jerrwin/Location-Tracking-App.git
 ```
 2. Open the project in Android Studio.
 3. Add your Firebase google-services.json file inside the app/ folder.
